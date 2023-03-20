@@ -2,10 +2,9 @@
 # Portofolio
 ---
 ## Python
-Python.
 [![](https://img.shields.io/badge/Google_ColabRun_on_Google_Colab-orange?logo=googlecolab&style=flatsquare)](https://colab.research.google.com/drive/1ICUwr-MO6xqCP1HlAYOHgOBImMuUqCer?usp=share_link)
 ---
-## Use-Case of Data Science in Retail for Recommendation System
+## Use-Case of Data Science in Banking for Recommendation System
 Ini adalah portofolio saya.
 --
 # Resources bahan
